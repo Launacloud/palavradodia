@@ -29,7 +29,18 @@ def parse_xml_feed(response_content):
     for item in root.findall('.//item'):
         title = item.find('title').text
         link = item.find('link').text
-        items.append({'title': title, 'link': link})
+        description = item.find('description').text if item.find('description') is not None else ''
+        content = item.find('{http://purl.org/rss/1.0/modules/content/}encoded')
+        content_html = content.text if content is not None else ''
+        image = item.find('{http://search.yahoo.com/mrss/}thumbnail')
+        image_url = image.get('url') if image is not None else ''
+        items.append({
+            'title': title,
+            'link': link,
+            'description': description,
+            'content_html': content_html,
+            'image_url': image_url
+        })
     return items
 
 def parse_json_feed(response_content):
@@ -44,7 +55,14 @@ def parse_json_feed(response_content):
     for item in data.get('items', []):
         title = item.get('title')
         link = item.get('url')  # Adjust the key based on your JSON feed structure
-        items.append({'title': title, 'link': link})
+        content_html = item.get('content_html', '')
+        image_url = item.get('image')  # Adjust the key based on your JSON feed structure
+        items.append({
+            'title': title,
+            'link': link,
+            'content_html': content_html,
+            'image_url': image_url
+        })
     return items
 
 def parse_rss(feed_url):
@@ -66,10 +84,14 @@ def main():
         return
     
     for item in rss_items:
-        message = f"<b>{item['title']}</b>\n{item['link']}"
+        message = f"<b>{item['title']}</b>\n{item['link']}\n"
+        if item['image_url']:
+            message += f"<a href='{item['image_url']}'>&#8205;</a>\n"
+        if item['content_html']:
+            message += f"{item['content_html']}\n"
         send_message(TELEGRAM_BOT_TOKEN, CHAT_ID, message)
         print(f"Sent message: {message}")
-        print(f"RSS Item - Title: {item['title']}, Link: {item['link']}")
+        print(f"RSS Item - Title: {item['title']}, Link: {item['link']}, Image: {item['image_url']}, Content HTML: {item['content_html']}")
 
 if __name__ == "__main__":
     main()
