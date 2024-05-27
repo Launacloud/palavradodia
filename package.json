@@ -1,0 +1,17 @@
+{
+  "name": "rss-to-telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@actionsflow/trigger-schedule": "^0.0.1",
+    "actionsflow": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "actionsflow start",
+    "build": "actionsflow build"
+  },
+  "author": "",
+  "license": "ISC"
+}
