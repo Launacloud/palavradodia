@@ -1,0 +1,21 @@
+name: rss Palavra to telegram
+on:
+  rss:
+    url: https://www.reddit.com/r/FreeEBOOKS+freebooks/.rss
+    source: json
+  
+jobs:
+  telegram:
+    name: Send a telegram message
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send a telegram message
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          format: HTML
+          disable_web_page_preview: false
+          message: |
+            <a href="${{on.rss.outputs.link}}"><b>${{ on.rss.outputs.title }}</b></a>
+            By ${{ on.rss.outputs.author }}
