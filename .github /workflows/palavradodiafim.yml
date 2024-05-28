@@ -1,9 +1,9 @@
 name: rss Palavra to telegram
 on:
   rss:
-    url: https://www.reddit.com/r/FreeEBOOKS+freebooks/.rss
+    url: https://politepol.com/fd/ocELqRJFPc4X.json
     source: json
-  
+
 jobs:
   telegram:
     name: Send a telegram message
