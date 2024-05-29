@@ -23,6 +23,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests
+        pip install feedparser
 
     - name: Run script
       env:
@@ -30,31 +31,3 @@ jobs:
         RSS_FEED_URLPALAVRADODIA: ${{ secrets.RSS_FEED_URLPALAVRADODIA }}
         TELEGRAM_CHAT_IDPALAVRADODIA: ${{ secrets.TELEGRAM_CHAT_IDPALAVRADODIA }}
       run: python send_rss_to_telegram_palavra.py
-
-  build_actionsflow:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Use Node.js 14.x
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14.x'
-
-      - name: Cache Node.js modules
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: Install dependencies
-        run: |
-          npm install
-          npm install @actionsflow/trigger-schedule
-
-      - name: Build Actionsflow
-        run: npx actionsflow build --include -f false --verbose false --json-secrets '${{ secrets.YOUR_SECRETS_HERE }}' --json-github '${{ toJson(github) }}'
