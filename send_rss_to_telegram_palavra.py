@@ -54,7 +54,7 @@ def send_rss_to_telegram():
             send_telegram_message(message)
             new_sent_message_ids.append(entry_id)
             # To avoid sending too many messages at once, we can break after sending a few messages.
-            if len(new_sent_message_ids) >= 20:
+            if len(new_sent_message_ids) >= 1:
                 break
 
     # Update the cache with the new sent message IDs
