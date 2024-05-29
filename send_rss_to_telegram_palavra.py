@@ -16,6 +16,7 @@ def send_telegram_message(message):
         'chat_id': TELEGRAM_CHAT_ID,
         'text': message,
         'parse_mode': 'HTML'
+        'disable_web_page_preview': 'false'  # Enable link previews
     }
     response = requests.post(url, data=payload)
     if response.status_code != 200:
@@ -48,7 +49,7 @@ def send_rss_to_telegram():
         if entry_id not in sent_message_ids:
             title = entry.title
             link = entry.link
-            description = entry.description  # Change 'summary' to 'description'
+            description = entry.content_html  # Change 'summary' to 'description'
             message = f"<b>{title}</b>\n{link}\n\n{description}"  # Added description to the message
             send_telegram_message(message)
             new_sent_message_ids.append(entry_id)
