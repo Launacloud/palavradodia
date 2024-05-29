@@ -15,7 +15,7 @@ def send_telegram_message(message):
     payload = {
         'chat_id': TELEGRAM_CHAT_ID,
         'text': message,
-        'parse_mode': 'HTML'
+        'parse_mode': 'HTML',
         'disable_web_page_preview': 'false'  # Enable link previews
     }
     response = requests.post(url, data=payload)
