@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"954113d7957f750b8b3c20911125c2cb5a1661507d56dcf930ee2ea9888e1be6\"",
+    "etag": "W/\"a5fce9569328164d0b7ce2bfddd502736b61e0fa62e38528bc5e83f4cda532a6\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/galopear/",
+    "last_entry_id": "https://www.dicio.com.br/garboso/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -26,5 +26,6 @@
     "https://www.dicio.com.br/balela/": true,
     "https://www.dicio.com.br/fugaz/": true,
     "https://www.dicio.com.br/galhofar/": true,
-    "https://www.dicio.com.br/galopear/": true
+    "https://www.dicio.com.br/galopear/": true,
+    "https://www.dicio.com.br/garboso/": true
 }
