@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"d42d6cf7f980325db3d4c08beb535879cb60cfca9092eb6306d7b9a0c3cc3326\"",
+    "etag": "W/\"da9f86868cb372ceb6f74f3985d8f16790c1331ca07f06648d41d52b2146ab89\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/gargalhar/",
+    "last_entry_id": "https://www.dicio.com.br/garrancho/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -28,5 +28,6 @@
     "https://www.dicio.com.br/galhofar/": true,
     "https://www.dicio.com.br/galopear/": true,
     "https://www.dicio.com.br/garboso/": true,
-    "https://www.dicio.com.br/gargalhar/": true
+    "https://www.dicio.com.br/gargalhar/": true,
+    "https://www.dicio.com.br/garrancho/": true
 }
