@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"76e65069920c7103980d1134305c8593569a4c4edcbc8d069763c6f71293455e\"",
+    "etag": "W/\"bcba940d7bc678803907a175eb8518fdb30e571d3528ebc8b07f984ec5696c92\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/chumbrega/",
+    "last_entry_id": "https://www.dicio.com.br/glutao/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -30,5 +30,6 @@
     "https://www.dicio.com.br/garboso/": true,
     "https://www.dicio.com.br/gargalhar/": true,
     "https://www.dicio.com.br/garrancho/": true,
-    "https://www.dicio.com.br/chumbrega/": true
+    "https://www.dicio.com.br/chumbrega/": true,
+    "https://www.dicio.com.br/glutao/": true
 }
