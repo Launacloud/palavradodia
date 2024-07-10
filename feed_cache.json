@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"727721a2d56354203378e0a83c70b27a3ea770ac6be5499b6b55b5077c67ef20\"",
+    "etag": "W/\"d8bf3918794eab8bd891b8510ed5247cc4791632d8da8b781e63ff5d3f1b1597\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/ignominia/",
+    "last_entry_id": "https://www.dicio.com.br/imbroglio/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -35,5 +35,6 @@
     "https://www.dicio.com.br/grugulejar/": true,
     "https://www.dicio.com.br/heterodoxo/": true,
     "https://www.dicio.com.br/iconoclasta/": true,
-    "https://www.dicio.com.br/ignominia/": true
+    "https://www.dicio.com.br/ignominia/": true,
+    "https://www.dicio.com.br/imbroglio/": true
 }
