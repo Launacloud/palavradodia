@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"d8bf3918794eab8bd891b8510ed5247cc4791632d8da8b781e63ff5d3f1b1597\"",
+    "etag": "W/\"6e6a5db40ad4861a21fd4d92239d471f97adff59a6720d958ceb38aa4943dbcf\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/imbroglio/",
+    "last_entry_id": "https://www.dicio.com.br/corso/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -36,5 +36,6 @@
     "https://www.dicio.com.br/heterodoxo/": true,
     "https://www.dicio.com.br/iconoclasta/": true,
     "https://www.dicio.com.br/ignominia/": true,
-    "https://www.dicio.com.br/imbroglio/": true
+    "https://www.dicio.com.br/imbroglio/": true,
+    "https://www.dicio.com.br/corso/": true
 }
