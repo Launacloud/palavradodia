@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"2095178608da4cfce097386fa59aa377a6ded9a8a633ace8058d41cf6f7e0da7\"",
+    "etag": "W/\"c20a9ff4e53dd67d5df51d6ece4e12f495377b83c9788c3adce5312abe9245d2\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/ineficaz/",
+    "last_entry_id": "https://www.dicio.com.br/inelutavel/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -39,5 +39,6 @@
     "https://www.dicio.com.br/imbroglio/": true,
     "https://www.dicio.com.br/corso/": true,
     "https://www.dicio.com.br/premencia/": true,
-    "https://www.dicio.com.br/ineficaz/": true
+    "https://www.dicio.com.br/ineficaz/": true,
+    "https://www.dicio.com.br/inelutavel/": true
 }
