@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"f3b54f57f5051682375102a9bfbab12b074e38d6786631056e4c070215e24a9f\"",
+    "etag": "W/\"77cdf469f2c2c3fac6cb0149f5c47a843d1c985a7449cbd24cc42f14372e6f2d\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/inexaurivel/",
+    "last_entry_id": "https://www.dicio.com.br/infortunio/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -41,5 +41,6 @@
     "https://www.dicio.com.br/premencia/": true,
     "https://www.dicio.com.br/ineficaz/": true,
     "https://www.dicio.com.br/inelutavel/": true,
-    "https://www.dicio.com.br/inexaurivel/": true
+    "https://www.dicio.com.br/inexaurivel/": true,
+    "https://www.dicio.com.br/infortunio/": true
 }
