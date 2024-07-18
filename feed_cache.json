@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c5c9708dc2ad338f1a88d27368d9521be754c2835dd60bfbb320f3f2e71bee98\"",
+    "etag": "W/\"98cecb89b6715c75de6af5161ee4b628d69291a32c92df32de5349600dd1b8d9\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/ininteligivel/",
+    "last_entry_id": "https://www.dicio.com.br/insolito/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -43,5 +43,6 @@
     "https://www.dicio.com.br/inelutavel/": true,
     "https://www.dicio.com.br/inexaurivel/": true,
     "https://www.dicio.com.br/infortunio/": true,
-    "https://www.dicio.com.br/ininteligivel/": true
+    "https://www.dicio.com.br/ininteligivel/": true,
+    "https://www.dicio.com.br/insolito/": true
 }
