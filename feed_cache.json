@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"98cecb89b6715c75de6af5161ee4b628d69291a32c92df32de5349600dd1b8d9\"",
+    "etag": "W/\"20198ca4895ffa78c43cdeaa3003718c63782f9eeb8aec8f0776996ed9126792\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/insolito/",
+    "last_entry_id": "https://www.dicio.com.br/javardo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -44,5 +44,6 @@
     "https://www.dicio.com.br/inexaurivel/": true,
     "https://www.dicio.com.br/infortunio/": true,
     "https://www.dicio.com.br/ininteligivel/": true,
-    "https://www.dicio.com.br/insolito/": true
+    "https://www.dicio.com.br/insolito/": true,
+    "https://www.dicio.com.br/javardo/": true
 }
