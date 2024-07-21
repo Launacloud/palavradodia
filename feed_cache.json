@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"2b3666096ef1f8252f9ffe879ecab319f0619b13a0e0b4e57f5fe93921f14a2d\"",
+    "etag": "W/\"e96136c034eb3d1237757bb79d9d8f2fb8e18866bc5e2b6f0202d3c8d333f5e4\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/lambao/",
+    "last_entry_id": "https://www.dicio.com.br/lamentavel/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -46,5 +46,6 @@
     "https://www.dicio.com.br/ininteligivel/": true,
     "https://www.dicio.com.br/insolito/": true,
     "https://www.dicio.com.br/javardo/": true,
-    "https://www.dicio.com.br/lambao/": true
+    "https://www.dicio.com.br/lambao/": true,
+    "https://www.dicio.com.br/lamentavel/": true
 }
