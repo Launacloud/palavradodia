@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c2031c9ef45d4de69e4163dcfddce00a2e05feef0c0ea56df209f5540b9c0a60\"",
+    "etag": "W/\"85526e4cf6b0a655a97a035bb379bbb40216ae1c479e6f368ef74f47cb0a178c\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/lisonja/",
+    "last_entry_id": "https://www.dicio.com.br/macabro/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -49,5 +49,6 @@
     "https://www.dicio.com.br/lambao/": true,
     "https://www.dicio.com.br/lamentavel/": true,
     "https://www.dicio.com.br/leviandade/": true,
-    "https://www.dicio.com.br/lisonja/": true
+    "https://www.dicio.com.br/lisonja/": true,
+    "https://www.dicio.com.br/macabro/": true
 }
