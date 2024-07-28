@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c22065e4d0924defecb204df34b7b786a2a97578835f2c848fa7c565e6ee46a4\"",
+    "etag": "W/\"2218af23b3d18221cf68f7717f4c689d7a3bb8a82227f66b8a8ff5727af24801\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/hierofania/",
+    "last_entry_id": "https://www.dicio.com.br/minguante/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -53,5 +53,6 @@
     "https://www.dicio.com.br/macabro/": true,
     "https://www.dicio.com.br/macambuzio/": true,
     "https://www.dicio.com.br/maleavel/": true,
-    "https://www.dicio.com.br/hierofania/": true
+    "https://www.dicio.com.br/hierofania/": true,
+    "https://www.dicio.com.br/minguante/": true
 }
