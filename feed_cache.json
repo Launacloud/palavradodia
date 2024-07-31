@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"ad608f0d50e7c1db33c44725c293dcbb8c99886d509b53fb2252dc3589102f99\"",
+    "etag": "W/\"92e7dd90bb9cd0b1ae63358f52d2006b6c60d24bc698cb000ed4b573b8b26ab0\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/nefasto/",
+    "last_entry_id": "https://www.dicio.com.br/nostalgico/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -56,5 +56,6 @@
     "https://www.dicio.com.br/hierofania/": true,
     "https://www.dicio.com.br/minguante/": true,
     "https://www.dicio.com.br/moribundo/": true,
-    "https://www.dicio.com.br/nefasto/": true
+    "https://www.dicio.com.br/nefasto/": true,
+    "https://www.dicio.com.br/nostalgico/": true
 }
