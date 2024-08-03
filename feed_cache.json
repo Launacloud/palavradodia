@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"690966fa59034555a068920fbd5d887514a6279f56723a68063ed7e255effaef\"",
+    "etag": "W/\"ac0414c903e074b660153e74c14a4f23468da9148ae12afac4c356714009e7ba\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/alquimista/",
+    "last_entry_id": "https://www.dicio.com.br/anacronico/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -58,5 +58,6 @@
     "https://www.dicio.com.br/moribundo/": true,
     "https://www.dicio.com.br/nefasto/": true,
     "https://www.dicio.com.br/nostalgico/": true,
-    "https://www.dicio.com.br/alquimista/": true
+    "https://www.dicio.com.br/alquimista/": true,
+    "https://www.dicio.com.br/anacronico/": true
 }
