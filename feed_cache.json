@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"acfcec5b2f18df9b5371b9119b67900d8727c4e8971124aabb1f4e3228086de9\"",
+    "etag": "W/\"dd79a07aa5da7737905b6b961c25f66f6352a89ce1367cde389189507b6bf698\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/apocalipse/",
+    "last_entry_id": "https://www.dicio.com.br/arabesco/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -60,5 +60,6 @@
     "https://www.dicio.com.br/nostalgico/": true,
     "https://www.dicio.com.br/alquimista/": true,
     "https://www.dicio.com.br/anacronico/": true,
-    "https://www.dicio.com.br/apocalipse/": true
+    "https://www.dicio.com.br/apocalipse/": true,
+    "https://www.dicio.com.br/arabesco/": true
 }
