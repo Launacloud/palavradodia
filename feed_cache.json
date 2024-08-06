@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"dd79a07aa5da7737905b6b961c25f66f6352a89ce1367cde389189507b6bf698\"",
+    "etag": "W/\"107daa8c578f5c2cf1d23d88357e2dc2094eb149587f1a4537aa8501220f6b14\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/arabesco/",
+    "last_entry_id": "https://www.dicio.com.br/desmantelado/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -61,5 +61,6 @@
     "https://www.dicio.com.br/alquimista/": true,
     "https://www.dicio.com.br/anacronico/": true,
     "https://www.dicio.com.br/apocalipse/": true,
-    "https://www.dicio.com.br/arabesco/": true
+    "https://www.dicio.com.br/arabesco/": true,
+    "https://www.dicio.com.br/desmantelado/": true
 }
