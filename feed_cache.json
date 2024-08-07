@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"107daa8c578f5c2cf1d23d88357e2dc2094eb149587f1a4537aa8501220f6b14\"",
+    "etag": "W/\"e95e9d02179ad7a972d30f3b4fea103252e639d0250aae2c4ab5637d077069a9\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/desmantelado/",
+    "last_entry_id": "https://www.dicio.com.br/bucolico/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -62,5 +62,6 @@
     "https://www.dicio.com.br/anacronico/": true,
     "https://www.dicio.com.br/apocalipse/": true,
     "https://www.dicio.com.br/arabesco/": true,
-    "https://www.dicio.com.br/desmantelado/": true
+    "https://www.dicio.com.br/desmantelado/": true,
+    "https://www.dicio.com.br/bucolico/": true
 }
