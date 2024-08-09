@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"b8fac73eeaf2c4cb32a545120d3102883508c8293f851eef074030ee3ba21c9d\"",
+    "etag": "W/\"24800cf05fcf5369b362e1237978848d177e3ba50a9a4ad9ce36e228f4b7db17\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/imiscuir/",
+    "last_entry_id": "https://www.dicio.com.br/caleidoscopio/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -64,5 +64,6 @@
     "https://www.dicio.com.br/arabesco/": true,
     "https://www.dicio.com.br/desmantelado/": true,
     "https://www.dicio.com.br/bucolico/": true,
-    "https://www.dicio.com.br/imiscuir/": true
+    "https://www.dicio.com.br/imiscuir/": true,
+    "https://www.dicio.com.br/caleidoscopio/": true
 }
