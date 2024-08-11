@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"dca767d523010cb09800e08d506177a2504d6c8f432076f5a95736b1a0d17bc2\"",
+    "etag": "W/\"f9b5f65b44ab0cb40bf2054e560ad79b1a32cd8aa5ec247c3b6d5e8903272c9a\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/candido/",
+    "last_entry_id": "https://www.dicio.com.br/casmurro/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -66,5 +66,6 @@
     "https://www.dicio.com.br/bucolico/": true,
     "https://www.dicio.com.br/imiscuir/": true,
     "https://www.dicio.com.br/caleidoscopio/": true,
-    "https://www.dicio.com.br/candido/": true
+    "https://www.dicio.com.br/candido/": true,
+    "https://www.dicio.com.br/casmurro/": true
 }
