@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"2d15aee929a1f1f7a75f17a336c40725e154d0dcfd92cca0af2a932333d57fd2\"",
+    "etag": "W/\"32e7468aa66dcbc6400ec994615a46eef6d7f7f5745e0ffd876d462347f3ead6\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/physique-du-role/",
+    "last_entry_id": "https://www.dicio.com.br/cetaceo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -69,5 +69,6 @@
     "https://www.dicio.com.br/candido/": true,
     "https://www.dicio.com.br/casmurro/": true,
     "https://www.dicio.com.br/caudaloso/": true,
-    "https://www.dicio.com.br/physique-du-role/": true
+    "https://www.dicio.com.br/physique-du-role/": true,
+    "https://www.dicio.com.br/cetaceo/": true
 }
