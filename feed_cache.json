@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c6ec6264bd4c1798921ffc8503c3c2d1e17db036cbbf7a7287135eca631ba2ba\"",
+    "etag": "W/\"1516aae11900dfabd9a4f9762ed872bd8d1a0800e58183fd451deb2bf3cfaa7d\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/ciclope/",
+    "last_entry_id": "https://www.dicio.com.br/coloquio/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -71,5 +71,6 @@
     "https://www.dicio.com.br/caudaloso/": true,
     "https://www.dicio.com.br/physique-du-role/": true,
     "https://www.dicio.com.br/cetaceo/": true,
-    "https://www.dicio.com.br/ciclope/": true
+    "https://www.dicio.com.br/ciclope/": true,
+    "https://www.dicio.com.br/coloquio/": true
 }
