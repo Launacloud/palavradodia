@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"46ce2e2ef2e9484e531ef56f4f5556f302a2e19512a9012099ed5af3db42f875\"",
+    "etag": "W/\"3db1baa5973c8b5a142b19cae5ef6fed0f43d62d3b37f20f1ad589313d4d6dcb\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/criptico/",
+    "last_entry_id": "https://www.dicio.com.br/deploravel/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -75,5 +75,6 @@
     "https://www.dicio.com.br/coloquio/": true,
     "https://www.dicio.com.br/compendioso/": true,
     "https://www.dicio.com.br/concomitante/": true,
-    "https://www.dicio.com.br/criptico/": true
+    "https://www.dicio.com.br/criptico/": true,
+    "https://www.dicio.com.br/deploravel/": true
 }
