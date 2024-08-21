@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"3db1baa5973c8b5a142b19cae5ef6fed0f43d62d3b37f20f1ad589313d4d6dcb\"",
+    "etag": "W/\"f35a34bb5bd42197426b6555949120f8492d03f8b6b79e625563d44f37865849\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/deploravel/",
+    "last_entry_id": "https://www.dicio.com.br/desprovido/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -76,5 +76,6 @@
     "https://www.dicio.com.br/compendioso/": true,
     "https://www.dicio.com.br/concomitante/": true,
     "https://www.dicio.com.br/criptico/": true,
-    "https://www.dicio.com.br/deploravel/": true
+    "https://www.dicio.com.br/deploravel/": true,
+    "https://www.dicio.com.br/desprovido/": true
 }
