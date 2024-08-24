@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"b8b8c0885404bc5ef8d6e8b0aef4520fd1a11b2f8db20135c8e678ee3896435e\"",
+    "etag": "W/\"abadfaafec43589457aa9b301d2f0776293afd1c82e21e4df995c6325d8c552f\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/dileto/",
+    "last_entry_id": "https://www.dicio.com.br/dissecacao/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -79,5 +79,6 @@
     "https://www.dicio.com.br/deploravel/": true,
     "https://www.dicio.com.br/desprovido/": true,
     "https://www.dicio.com.br/devaneio/": true,
-    "https://www.dicio.com.br/dileto/": true
+    "https://www.dicio.com.br/dileto/": true,
+    "https://www.dicio.com.br/dissecacao/": true
 }
