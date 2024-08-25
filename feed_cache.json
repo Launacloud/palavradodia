@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"abadfaafec43589457aa9b301d2f0776293afd1c82e21e4df995c6325d8c552f\"",
+    "etag": "W/\"1b47581f248fa698bd2e00af9e67b7df0a52be5f46460dbd9a2408f4e5f65828\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/dissecacao/",
+    "last_entry_id": "https://www.dicio.com.br/dodecaedro/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -80,5 +80,6 @@
     "https://www.dicio.com.br/desprovido/": true,
     "https://www.dicio.com.br/devaneio/": true,
     "https://www.dicio.com.br/dileto/": true,
-    "https://www.dicio.com.br/dissecacao/": true
+    "https://www.dicio.com.br/dissecacao/": true,
+    "https://www.dicio.com.br/dodecaedro/": true
 }
