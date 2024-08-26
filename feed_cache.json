@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"1b47581f248fa698bd2e00af9e67b7df0a52be5f46460dbd9a2408f4e5f65828\"",
+    "etag": "W/\"c4ba68d90aa16816e1922951279776dc88d538ecc97e768431c9b79f3b2dd07e\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/dodecaedro/",
+    "last_entry_id": "https://www.dicio.com.br/ecossistema/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -81,5 +81,6 @@
     "https://www.dicio.com.br/devaneio/": true,
     "https://www.dicio.com.br/dileto/": true,
     "https://www.dicio.com.br/dissecacao/": true,
-    "https://www.dicio.com.br/dodecaedro/": true
+    "https://www.dicio.com.br/dodecaedro/": true,
+    "https://www.dicio.com.br/ecossistema/": true
 }
