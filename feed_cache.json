@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c4ba68d90aa16816e1922951279776dc88d538ecc97e768431c9b79f3b2dd07e\"",
+    "etag": "W/\"ceab0000f13ba193879b0a4b56af9b0fb81560c9792d63f79dc9593402d7424a\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/ecossistema/",
+    "last_entry_id": "https://www.dicio.com.br/ectoplasma/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -82,5 +82,6 @@
     "https://www.dicio.com.br/dileto/": true,
     "https://www.dicio.com.br/dissecacao/": true,
     "https://www.dicio.com.br/dodecaedro/": true,
-    "https://www.dicio.com.br/ecossistema/": true
+    "https://www.dicio.com.br/ecossistema/": true,
+    "https://www.dicio.com.br/ectoplasma/": true
 }
