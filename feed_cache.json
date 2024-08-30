@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"8be68e8ffd597aef75059bb6af0aeb434c756cb900034137355ebb96fa6b2352\"",
+    "etag": "W/\"dd41fc4615e00de9738e7c62ffb9b6ac1d1a75644ef988855f9350651fac2af6\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/elocucao/",
+    "last_entry_id": "https://www.dicio.com.br/embaraco/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -85,5 +85,6 @@
     "https://www.dicio.com.br/ecossistema/": true,
     "https://www.dicio.com.br/ectoplasma/": true,
     "https://www.dicio.com.br/efemero/": true,
-    "https://www.dicio.com.br/elocucao/": true
+    "https://www.dicio.com.br/elocucao/": true,
+    "https://www.dicio.com.br/embaraco/": true
 }
