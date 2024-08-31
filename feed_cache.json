@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"dd41fc4615e00de9738e7c62ffb9b6ac1d1a75644ef988855f9350651fac2af6\"",
+    "etag": "W/\"76df93579558d038e065ece8256d69e308b1b62b8d2283ac91aef5a5566fb97c\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/embaraco/",
+    "last_entry_id": "https://www.dicio.com.br/fidelissimo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -86,5 +86,6 @@
     "https://www.dicio.com.br/ectoplasma/": true,
     "https://www.dicio.com.br/efemero/": true,
     "https://www.dicio.com.br/elocucao/": true,
-    "https://www.dicio.com.br/embaraco/": true
+    "https://www.dicio.com.br/embaraco/": true,
+    "https://www.dicio.com.br/fidelissimo/": true
 }
