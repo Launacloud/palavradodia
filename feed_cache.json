@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"ff7dfe379b3f8294ffb476f6d62b6552dd01c1f6a43457ae29ae32dd839cdbbc\"",
+    "etag": "W/\"a4ee513c9141e3179fb41b1ff227ef218450dc9090156a304c5a134bc6c0b33b\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/enlevo/",
+    "last_entry_id": "https://www.dicio.com.br/birosca/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -88,5 +88,6 @@
     "https://www.dicio.com.br/elocucao/": true,
     "https://www.dicio.com.br/embaraco/": true,
     "https://www.dicio.com.br/fidelissimo/": true,
-    "https://www.dicio.com.br/enlevo/": true
+    "https://www.dicio.com.br/enlevo/": true,
+    "https://www.dicio.com.br/birosca/": true
 }
