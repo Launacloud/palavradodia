@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"d3eba0fbde54cd2d324361037500b5a2ffec5965b110db992720a02047b10bc9\"",
+    "etag": "W/\"18db2fb92c9354c814100e9b6d699eadcc020e2a515fdd3c74f5f12c09a7811e\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/equivoco/",
+    "last_entry_id": "https://www.dicio.com.br/exotico/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -90,5 +90,6 @@
     "https://www.dicio.com.br/fidelissimo/": true,
     "https://www.dicio.com.br/enlevo/": true,
     "https://www.dicio.com.br/birosca/": true,
-    "https://www.dicio.com.br/equivoco/": true
+    "https://www.dicio.com.br/equivoco/": true,
+    "https://www.dicio.com.br/exotico/": true
 }
