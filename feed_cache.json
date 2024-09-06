@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"5e67b81fa794feb63fc0cbc1da141a368e34a6b46fd7c52cdcc65287300cf679\"",
+    "etag": "W/\"887052d56d9137dea6aac8db4bdc8839bd026ef18d4d7ea0686cb20beb501c06\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/falacia/",
+    "last_entry_id": "https://www.dicio.com.br/fulgido/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -92,5 +92,6 @@
     "https://www.dicio.com.br/birosca/": true,
     "https://www.dicio.com.br/equivoco/": true,
     "https://www.dicio.com.br/exotico/": true,
-    "https://www.dicio.com.br/falacia/": true
+    "https://www.dicio.com.br/falacia/": true,
+    "https://www.dicio.com.br/fulgido/": true
 }
