@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"887052d56d9137dea6aac8db4bdc8839bd026ef18d4d7ea0686cb20beb501c06\"",
+    "etag": "W/\"4cea189c54f5323ae7ba3e3775cb2c936de50f6de0c86c99f3562ad2760d7a6a\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/fulgido/",
+    "last_entry_id": "https://www.dicio.com.br/fulgurante/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -93,5 +93,6 @@
     "https://www.dicio.com.br/equivoco/": true,
     "https://www.dicio.com.br/exotico/": true,
     "https://www.dicio.com.br/falacia/": true,
-    "https://www.dicio.com.br/fulgido/": true
+    "https://www.dicio.com.br/fulgido/": true,
+    "https://www.dicio.com.br/fulgurante/": true
 }
