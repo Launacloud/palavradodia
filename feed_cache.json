@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"4cea189c54f5323ae7ba3e3775cb2c936de50f6de0c86c99f3562ad2760d7a6a\"",
+    "etag": "W/\"97690cdca7ddab301a6ba5d0aba258d91cefa9a3db7516d8f139dbe66b0a6168\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/fulgurante/",
+    "last_entry_id": "https://www.dicio.com.br/galaxia/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -94,5 +94,6 @@
     "https://www.dicio.com.br/exotico/": true,
     "https://www.dicio.com.br/falacia/": true,
     "https://www.dicio.com.br/fulgido/": true,
-    "https://www.dicio.com.br/fulgurante/": true
+    "https://www.dicio.com.br/fulgurante/": true,
+    "https://www.dicio.com.br/galaxia/": true
 }
