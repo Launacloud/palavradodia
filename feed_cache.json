@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"f3fb56db1d146939a87357b734754f916e525e106c9f2d3683b3f7f799effcb3\"",
+    "etag": "W/\"e340e78ea15198a368ab895ab80513bf0831d8dcf64a55d03b77b9c736ff3491\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/iconico/",
+    "last_entry_id": "https://www.dicio.com.br/idiossincrasia/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -100,5 +100,6 @@
     "https://www.dicio.com.br/genuino/": true,
     "https://www.dicio.com.br/hibernal/": true,
     "https://www.dicio.com.br/chinfrim/": true,
-    "https://www.dicio.com.br/iconico/": true
+    "https://www.dicio.com.br/iconico/": true,
+    "https://www.dicio.com.br/idiossincrasia/": true
 }
