@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c05ccf6978f4745463e38f9d0b554798bf6435f0ff5be9a0cd823468e52754d8\"",
+    "etag": "W/\"35502f1d13eda0746f44b65ea2f75b186c0110826f6ed36f273b5c977b1ef6dc\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/a-excecao-de/",
+    "last_entry_id": "https://www.dicio.com.br/hipercorrecao/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -102,5 +102,6 @@
     "https://www.dicio.com.br/chinfrim/": true,
     "https://www.dicio.com.br/iconico/": true,
     "https://www.dicio.com.br/idiossincrasia/": true,
-    "https://www.dicio.com.br/a-excecao-de/": true
+    "https://www.dicio.com.br/a-excecao-de/": true,
+    "https://www.dicio.com.br/hipercorrecao/": true
 }
