@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"469d797fbb14fab0aa30e896d70bd29a9f3c0ebeb8fdb43c78a6f59ab71a120a\"",
+    "etag": "W/\"c23b796b7618b4468aae95e7c4abc5fb763b908be45df6bd8f699028ffc1bed5\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/solitude/",
+    "last_entry_id": "https://www.dicio.com.br/intermitente/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -104,5 +104,6 @@
     "https://www.dicio.com.br/idiossincrasia/": true,
     "https://www.dicio.com.br/a-excecao-de/": true,
     "https://www.dicio.com.br/hipercorrecao/": true,
-    "https://www.dicio.com.br/solitude/": true
+    "https://www.dicio.com.br/solitude/": true,
+    "https://www.dicio.com.br/intermitente/": true
 }
