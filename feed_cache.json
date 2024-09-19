@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c23b796b7618b4468aae95e7c4abc5fb763b908be45df6bd8f699028ffc1bed5\"",
+    "etag": "W/\"7d5895afe94caa7b3515b515307f81690b3480cc1873f6163d56890ed0c7813c\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/intermitente/",
+    "last_entry_id": "https://www.dicio.com.br/jactancia/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -105,5 +105,6 @@
     "https://www.dicio.com.br/a-excecao-de/": true,
     "https://www.dicio.com.br/hipercorrecao/": true,
     "https://www.dicio.com.br/solitude/": true,
-    "https://www.dicio.com.br/intermitente/": true
+    "https://www.dicio.com.br/intermitente/": true,
+    "https://www.dicio.com.br/jactancia/": true
 }
