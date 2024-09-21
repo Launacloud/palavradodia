@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"69683ef51c807aad2fffbe698ec4afb8ff5a309cf28becf1c8c4ab231fa12456\"",
+    "etag": "W/\"562ae8a579f6135fe000bf4f1d78560f4dcbbe7d5882d06131330ecdcacbe328\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/kafkiano/",
+    "last_entry_id": "https://www.dicio.com.br/labirinto/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -107,5 +107,6 @@
     "https://www.dicio.com.br/solitude/": true,
     "https://www.dicio.com.br/intermitente/": true,
     "https://www.dicio.com.br/jactancia/": true,
-    "https://www.dicio.com.br/kafkiano/": true
+    "https://www.dicio.com.br/kafkiano/": true,
+    "https://www.dicio.com.br/labirinto/": true
 }
