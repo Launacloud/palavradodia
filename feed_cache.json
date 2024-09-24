@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c6a153d4ea93588a278d04474873c7ebc5774ad472868780cbc3cb88f92f1495\"",
+    "etag": "W/\"012696c28ec5d3ecc185c175ffcf8fe2f567f72ec84e79620f7971bf117cb26d\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/magnanimo/",
+    "last_entry_id": "https://www.dicio.com.br/majestoso/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -110,5 +110,6 @@
     "https://www.dicio.com.br/kafkiano/": true,
     "https://www.dicio.com.br/labirinto/": true,
     "https://www.dicio.com.br/luminoso/": true,
-    "https://www.dicio.com.br/magnanimo/": true
+    "https://www.dicio.com.br/magnanimo/": true,
+    "https://www.dicio.com.br/majestoso/": true
 }
