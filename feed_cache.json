@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"adf605b5bc2449c4568f231f1d7dfbfba0385fa121e4fe6640e4ff701d951e83\"",
+    "etag": "W/\"4fbb874cb48218b5729a96fd19a564840819ff78e708d4a6e37bace222efe1e5\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/malevolo/",
+    "last_entry_id": "https://www.dicio.com.br/melancolia/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -113,5 +113,6 @@
     "https://www.dicio.com.br/magnanimo/": true,
     "https://www.dicio.com.br/majestoso/": true,
     "https://www.dicio.com.br/malabarismo/": true,
-    "https://www.dicio.com.br/malevolo/": true
+    "https://www.dicio.com.br/malevolo/": true,
+    "https://www.dicio.com.br/melancolia/": true
 }
