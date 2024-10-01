@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"def945e902bf1f6ae807ad0a94ab97e3d47ffcb9c56c0cea2489f8b710f1d9af\"",
+    "etag": "W/\"6802e68302d06569a9c8f1475e05de4b9d0023a6085c64e260382a175f349149\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/monotono/",
+    "last_entry_id": "https://www.dicio.com.br/sommelier/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -117,5 +117,6 @@
     "https://www.dicio.com.br/melancolia/": true,
     "https://www.dicio.com.br/metamorfose/": true,
     "https://www.dicio.com.br/monotono/": true,
-    "https://www.dicio.com.br/mitigacao/": true
+    "https://www.dicio.com.br/mitigacao/": true,
+    "https://www.dicio.com.br/sommelier/": true
 }
