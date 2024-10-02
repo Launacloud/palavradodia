@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"6802e68302d06569a9c8f1475e05de4b9d0023a6085c64e260382a175f349149\"",
+    "etag": "W/\"a59c749ce3234ff6210dc891fc917715c6ab09660c9ae66fdec2e18155915e82\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/sommelier/",
+    "last_entry_id": "https://www.dicio.com.br/nebuloso/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -118,5 +118,6 @@
     "https://www.dicio.com.br/metamorfose/": true,
     "https://www.dicio.com.br/monotono/": true,
     "https://www.dicio.com.br/mitigacao/": true,
-    "https://www.dicio.com.br/sommelier/": true
+    "https://www.dicio.com.br/sommelier/": true,
+    "https://www.dicio.com.br/nebuloso/": true
 }
