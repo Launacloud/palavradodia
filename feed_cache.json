@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"a59c749ce3234ff6210dc891fc917715c6ab09660c9ae66fdec2e18155915e82\"",
+    "etag": "W/\"a35a457d6901435fce83e49e9a0073793c0460ed1717577ec8911dfe660ea61f\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/nebuloso/",
+    "last_entry_id": "https://www.dicio.com.br/nefelibata/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -119,5 +119,6 @@
     "https://www.dicio.com.br/monotono/": true,
     "https://www.dicio.com.br/mitigacao/": true,
     "https://www.dicio.com.br/sommelier/": true,
-    "https://www.dicio.com.br/nebuloso/": true
+    "https://www.dicio.com.br/nebuloso/": true,
+    "https://www.dicio.com.br/nefelibata/": true
 }
