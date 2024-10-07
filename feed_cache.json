@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"5c95d8e34f23fdd3e7d7a745d7e260837a5b9430ec5addae2d5e5564bddefafd\"",
+    "etag": "W/\"632209052adecff14aba60db1c857fb5ef971088c1a74b2c54d1cc0876f6157e\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/oasis/",
+    "last_entry_id": "https://www.dicio.com.br/obscuridade/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -123,5 +123,6 @@
     "https://www.dicio.com.br/nefelibata/": true,
     "https://www.dicio.com.br/nirvana/": true,
     "https://www.dicio.com.br/nostalgia/": true,
-    "https://www.dicio.com.br/oasis/": true
+    "https://www.dicio.com.br/oasis/": true,
+    "https://www.dicio.com.br/obscuridade/": true
 }
