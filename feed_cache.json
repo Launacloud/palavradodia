@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"424f602b00b881ded9789c03ae59d9d342b59b5a1b6d770527d76e5e80cef88d\"",
+    "etag": "W/\"8ab42c814ea6e183c4e1a3ba615c5af429a2ec83c697c4f2a38d5b8246a58359\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/onix/",
+    "last_entry_id": "https://www.dicio.com.br/oraculo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -126,5 +126,6 @@
     "https://www.dicio.com.br/oasis/": true,
     "https://www.dicio.com.br/obscuridade/": true,
     "https://www.dicio.com.br/obsoleto/": true,
-    "https://www.dicio.com.br/onix/": true
+    "https://www.dicio.com.br/onix/": true,
+    "https://www.dicio.com.br/oraculo/": true
 }
