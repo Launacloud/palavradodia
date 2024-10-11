@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"8ab42c814ea6e183c4e1a3ba615c5af429a2ec83c697c4f2a38d5b8246a58359\"",
+    "etag": "W/\"7a02ee4a6bec1e1f0952a5a502e59dfe2539bde3c16cc2b251817868e9c63de1\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/oraculo/",
+    "last_entry_id": "https://www.dicio.com.br/paradoxo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -127,5 +127,6 @@
     "https://www.dicio.com.br/obscuridade/": true,
     "https://www.dicio.com.br/obsoleto/": true,
     "https://www.dicio.com.br/onix/": true,
-    "https://www.dicio.com.br/oraculo/": true
+    "https://www.dicio.com.br/oraculo/": true,
+    "https://www.dicio.com.br/paradoxo/": true
 }
