@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"3a1d3a662a5d551e36a4bad1f61b184214394b9141246ba26342890442458af8\"",
+    "etag": "W/\"63c5b5f805524fc77c3526b24219e01c51f4d7db727a2c9437d06811bf0da2ac\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/perene/",
+    "last_entry_id": "https://www.dicio.com.br/perspicaz/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -129,5 +129,6 @@
     "https://www.dicio.com.br/onix/": true,
     "https://www.dicio.com.br/oraculo/": true,
     "https://www.dicio.com.br/paradoxo/": true,
-    "https://www.dicio.com.br/perene/": true
+    "https://www.dicio.com.br/perene/": true,
+    "https://www.dicio.com.br/perspicaz/": true
 }
