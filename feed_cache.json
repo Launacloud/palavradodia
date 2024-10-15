@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"025239ffc19474d5ababc10ccfba0a0f65295e93388d0a1b793764859b0bf662\"",
+    "etag": "W/\"894ea06cbcc0d51b21c910b55cd17764b1574beaecd92cd857e76afdce6943cd\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/plenitude/",
+    "last_entry_id": "https://www.dicio.com.br/polifonico/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -131,5 +131,6 @@
     "https://www.dicio.com.br/paradoxo/": true,
     "https://www.dicio.com.br/perene/": true,
     "https://www.dicio.com.br/perspicaz/": true,
-    "https://www.dicio.com.br/plenitude/": true
+    "https://www.dicio.com.br/plenitude/": true,
+    "https://www.dicio.com.br/polifonico/": true
 }
