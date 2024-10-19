@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"7cb0582040c5a20965b9bb21973586e4b12722c8440f34b19cc4ba98f3b232c7\"",
+    "etag": "W/\"c4c63631ea779a4eafcbc1765b08e051ff4fb07a21419e137b5874cc5b478e80\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/profusao/",
+    "last_entry_id": "https://www.dicio.com.br/borocoxo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -135,5 +135,6 @@
     "https://www.dicio.com.br/polifonico/": true,
     "https://www.dicio.com.br/pomposo/": true,
     "https://www.dicio.com.br/precipicio/": true,
-    "https://www.dicio.com.br/profusao/": true
+    "https://www.dicio.com.br/profusao/": true,
+    "https://www.dicio.com.br/borocoxo/": true
 }
