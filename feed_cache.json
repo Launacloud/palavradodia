@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c9e059d1549f0cb1f148f21e878ff31f4e1ac61ea4fb3d0b7763308aae6ef440\"",
+    "etag": "W/\"922bbec500fef611faf42abf4b0153ad698a32f313af4c3f57322b0d4f5305ea\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/reticente/",
+    "last_entry_id": "https://www.dicio.com.br/reverbero/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -138,5 +138,6 @@
     "https://www.dicio.com.br/profusao/": true,
     "https://www.dicio.com.br/borocoxo/": true,
     "https://www.dicio.com.br/quica/": true,
-    "https://www.dicio.com.br/reticente/": true
+    "https://www.dicio.com.br/reticente/": true,
+    "https://www.dicio.com.br/reverbero/": true
 }
