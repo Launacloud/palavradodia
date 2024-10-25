@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"02edf6c165963aba89b7ba51577903c0b8a7e7ec8121e6e5372aab46dc9feac0\"",
+    "etag": "W/\"a67a6b74aae9afed320fc61c402b8b2305f57fb896831bc66b35d06da6723c98\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/serenidade/",
+    "last_entry_id": "https://www.dicio.com.br/silogismo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -141,5 +141,6 @@
     "https://www.dicio.com.br/reticente/": true,
     "https://www.dicio.com.br/reverbero/": true,
     "https://www.dicio.com.br/sarcasmo/": true,
-    "https://www.dicio.com.br/serenidade/": true
+    "https://www.dicio.com.br/serenidade/": true,
+    "https://www.dicio.com.br/silogismo/": true
 }
