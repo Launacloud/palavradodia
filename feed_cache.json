@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"cf38ad2aa17616615a74d95f2df4c5d320eb3f8622b39f4097df4df46c2821e5\"",
+    "etag": "W/\"97f1e4adebca8dce68b0edd818ea045b9c15428ba166fdbdd40cad3169f11239\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/taciturno/",
+    "last_entry_id": "https://www.dicio.com.br/tenaz/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -145,5 +145,6 @@
     "https://www.dicio.com.br/silogismo/": true,
     "https://www.dicio.com.br/suntuoso/": true,
     "https://www.dicio.com.br/supimpa/": true,
-    "https://www.dicio.com.br/taciturno/": true
+    "https://www.dicio.com.br/taciturno/": true,
+    "https://www.dicio.com.br/tenaz/": true
 }
