@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"65d275433775830bcf92e657644f1c9e9f8808df147cfd37ba0169f33bfa169d\"",
+    "etag": "W/\"960e5baceb024b9e6377734aecbf6109b2c7a5a6d45839868a11f8afc5a738a3\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/trivialidade/",
+    "last_entry_id": "https://www.dicio.com.br/ubiquo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -147,5 +147,6 @@
     "https://www.dicio.com.br/supimpa/": true,
     "https://www.dicio.com.br/taciturno/": true,
     "https://www.dicio.com.br/tenaz/": true,
-    "https://www.dicio.com.br/trivialidade/": true
+    "https://www.dicio.com.br/trivialidade/": true,
+    "https://www.dicio.com.br/ubiquo/": true
 }
