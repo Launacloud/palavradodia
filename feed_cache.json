@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"5c734eb46db3593f66d6105c014b5e88da73784fdd847783d630baec21553d3b\"",
+    "etag": "W/\"abcd4678788027fb180053975f31f2095bb9a8afefc2814d87db0d6e452ff74f\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/utopico/",
+    "last_entry_id": "https://www.dicio.com.br/vanilina/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -151,5 +151,6 @@
     "https://www.dicio.com.br/ubiquo/": true,
     "https://www.dicio.com.br/ululante/": true,
     "https://www.dicio.com.br/unissono/": true,
-    "https://www.dicio.com.br/utopico/": true
+    "https://www.dicio.com.br/utopico/": true,
+    "https://www.dicio.com.br/vanilina/": true
 }
