@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"5952a31d206163c5f32c978eb2f0a29c40041cd4c32d2dc3a07966285fc5adcc\"",
+    "etag": "W/\"053bec45f0ec321ddb354a1f8892abce73a4f6266a07b930aa7ad90bf850b798\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/verossimil/",
+    "last_entry_id": "https://www.dicio.com.br/zenite-2/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -153,5 +153,6 @@
     "https://www.dicio.com.br/unissono/": true,
     "https://www.dicio.com.br/utopico/": true,
     "https://www.dicio.com.br/vanilina/": true,
-    "https://www.dicio.com.br/verossimil/": true
+    "https://www.dicio.com.br/verossimil/": true,
+    "https://www.dicio.com.br/zenite-2/": true
 }
