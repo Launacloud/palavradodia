@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"053bec45f0ec321ddb354a1f8892abce73a4f6266a07b930aa7ad90bf850b798\"",
+    "etag": "W/\"106f7dd9baa51317092300f5c18c2da05d861577b4bf8493b2253e5896197a59\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/zenite-2/",
+    "last_entry_id": "https://www.dicio.com.br/alquimia/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -154,5 +154,6 @@
     "https://www.dicio.com.br/utopico/": true,
     "https://www.dicio.com.br/vanilina/": true,
     "https://www.dicio.com.br/verossimil/": true,
-    "https://www.dicio.com.br/zenite-2/": true
+    "https://www.dicio.com.br/zenite-2/": true,
+    "https://www.dicio.com.br/alquimia/": true
 }
