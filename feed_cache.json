@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"106f7dd9baa51317092300f5c18c2da05d861577b4bf8493b2253e5896197a59\"",
+    "etag": "W/\"de88749c5cb935ee857d2aa6f8f753a78415f6a336c7f421ddcc88ab5f23ac7a\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/alquimia/",
+    "last_entry_id": "https://www.dicio.com.br/anticristo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -155,5 +155,6 @@
     "https://www.dicio.com.br/vanilina/": true,
     "https://www.dicio.com.br/verossimil/": true,
     "https://www.dicio.com.br/zenite-2/": true,
-    "https://www.dicio.com.br/alquimia/": true
+    "https://www.dicio.com.br/alquimia/": true,
+    "https://www.dicio.com.br/anticristo/": true
 }
