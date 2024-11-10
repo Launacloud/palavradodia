@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"6a58c6d355466750f93aac7ce8368180f41d8ba02d43347ab69a07a7fd3095b5\"",
+    "etag": "W/\"a97ddfbea59917978bc270d75ffa37d7ff7c96f72c6b14afd82b9b2314c80197\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/apoteose/",
+    "last_entry_id": "https://www.dicio.com.br/arquipelago/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -157,5 +157,6 @@
     "https://www.dicio.com.br/zenite-2/": true,
     "https://www.dicio.com.br/alquimia/": true,
     "https://www.dicio.com.br/anticristo/": true,
-    "https://www.dicio.com.br/apoteose/": true
+    "https://www.dicio.com.br/apoteose/": true,
+    "https://www.dicio.com.br/arquipelago/": true
 }
