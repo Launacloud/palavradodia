@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"b4d55e22a1672aa1d1e3b5ebea8e8431a172207d6ddde5242168863139ecc2e1\"",
+    "etag": "W/\"b008d8308e29a461e7edd57b165c22d9d7b61613edfb3feadd7e3ec94eb000dd\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/ataraxia/",
+    "last_entry_id": "https://www.dicio.com.br/basilica/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -159,5 +159,6 @@
     "https://www.dicio.com.br/anticristo/": true,
     "https://www.dicio.com.br/apoteose/": true,
     "https://www.dicio.com.br/arquipelago/": true,
-    "https://www.dicio.com.br/ataraxia/": true
+    "https://www.dicio.com.br/ataraxia/": true,
+    "https://www.dicio.com.br/basilica/": true
 }
