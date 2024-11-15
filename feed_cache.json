@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"ea69b3233579ee96e606b74f66842114bbc1f425dad84cb0b96f64a7ecc0e414\"",
+    "etag": "W/\"afdfc00cbe2ae0b2bc7081810bb81c9f4d5eed7c8913f44b41c12b0752ec32f5\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/cacofonia/",
+    "last_entry_id": "https://www.dicio.com.br/cacofonizar/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -162,5 +162,6 @@
     "https://www.dicio.com.br/ataraxia/": true,
     "https://www.dicio.com.br/basilica/": true,
     "https://www.dicio.com.br/bibelo/": true,
-    "https://www.dicio.com.br/cacofonia/": true
+    "https://www.dicio.com.br/cacofonia/": true,
+    "https://www.dicio.com.br/cacofonizar/": true
 }
