@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"470e1077438aff68d62d283a4aec5b944a63cad14a41c2d0812ce276d19d6d92\"",
+    "etag": "W/\"6302b1277fa3a9a18bbce184bf2844381c44e63ec8318177f7f7d99ddc00ce6a\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/cafundo/",
+    "last_entry_id": "https://www.dicio.com.br/categorico/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -164,5 +164,6 @@
     "https://www.dicio.com.br/bibelo/": true,
     "https://www.dicio.com.br/cacofonia/": true,
     "https://www.dicio.com.br/cacofonizar/": true,
-    "https://www.dicio.com.br/cafundo/": true
+    "https://www.dicio.com.br/cafundo/": true,
+    "https://www.dicio.com.br/categorico/": true
 }
