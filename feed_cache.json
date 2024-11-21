@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"0820dba889d9f0c3313e980a3945e2fe0819cc546573b11260043dd5492a0fee\"",
+    "etag": "W/\"82b35658d764bb2434fc40092c86dd15ac7b01ae16c6f8ed57f906eaf5928d5e\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/coalescencia/",
+    "last_entry_id": "https://www.dicio.com.br/interface/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -168,5 +168,6 @@
     "https://www.dicio.com.br/categorico/": true,
     "https://www.dicio.com.br/cenico/": true,
     "https://www.dicio.com.br/circunspecto/": true,
-    "https://www.dicio.com.br/coalescencia/": true
+    "https://www.dicio.com.br/coalescencia/": true,
+    "https://www.dicio.com.br/interface/": true
 }
