@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"82b35658d764bb2434fc40092c86dd15ac7b01ae16c6f8ed57f906eaf5928d5e\"",
+    "etag": "W/\"b25696671d2b74d15ff864d9952292454e956f47fc7649f49e04e10276f73451\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/interface/",
+    "last_entry_id": "https://www.dicio.com.br/dantesco/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -169,5 +169,6 @@
     "https://www.dicio.com.br/cenico/": true,
     "https://www.dicio.com.br/circunspecto/": true,
     "https://www.dicio.com.br/coalescencia/": true,
-    "https://www.dicio.com.br/interface/": true
+    "https://www.dicio.com.br/interface/": true,
+    "https://www.dicio.com.br/dantesco/": true
 }
