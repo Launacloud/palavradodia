@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"9dba3f2ad7452f795445a326ed27965fee759d6d5feb0a3d378d8f659cbee476\"",
+    "etag": "W/\"5ddfa0d3eee34cad7f13ef43ddbd30c9fb5b36514e231bbd7d225fd4991a7ac8\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/dicotomia/",
+    "last_entry_id": "https://www.dicio.com.br/efervescencia/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -172,5 +172,6 @@
     "https://www.dicio.com.br/interface/": true,
     "https://www.dicio.com.br/dantesco/": true,
     "https://www.dicio.com.br/designio/": true,
-    "https://www.dicio.com.br/dicotomia/": true
+    "https://www.dicio.com.br/dicotomia/": true,
+    "https://www.dicio.com.br/efervescencia/": true
 }
