@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"09c6f93f0a9e1968f1f90bd410cb7027be9f09575f3a757c50878569d7548f6e\"",
+    "etag": "W/\"c265e3feab452f07bc5dee1d3a0ccff7592e1f6c63e5d8d366cce4c39ea293bb\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/ensandecer/",
+    "last_entry_id": "https://www.dicio.com.br/epicurismo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -178,5 +178,6 @@
     "https://www.dicio.com.br/chi-coracao/": true,
     "https://www.dicio.com.br/empirico/": true,
     "https://www.dicio.com.br/enigma/": true,
-    "https://www.dicio.com.br/ensandecer/": true
+    "https://www.dicio.com.br/ensandecer/": true,
+    "https://www.dicio.com.br/epicurismo/": true
 }
