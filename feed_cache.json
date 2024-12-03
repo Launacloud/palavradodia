@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c265e3feab452f07bc5dee1d3a0ccff7592e1f6c63e5d8d366cce4c39ea293bb\"",
+    "etag": "W/\"cc80ab68ecb389bcfe1a6c010eb25cac75c1232fd3b9d3195c74e967560e0a8c\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/epicurismo/",
+    "last_entry_id": "https://www.dicio.com.br/escarlate/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -179,5 +179,6 @@
     "https://www.dicio.com.br/empirico/": true,
     "https://www.dicio.com.br/enigma/": true,
     "https://www.dicio.com.br/ensandecer/": true,
-    "https://www.dicio.com.br/epicurismo/": true
+    "https://www.dicio.com.br/epicurismo/": true,
+    "https://www.dicio.com.br/escarlate/": true
 }
