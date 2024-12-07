@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"cf7cf9d42cd977ae76acafb4fafdba58b0fa9bf1a8558f3fbd8ee4add7ea08c1\"",
+    "etag": "W/\"2942d14db3e3c202d14a2b303dd5aeebe06a2905bb17ce27c36352277d5f0282\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/extravagante/",
+    "last_entry_id": "https://www.dicio.com.br/falaz/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -184,5 +184,6 @@
     "https://www.dicio.com.br/esdruxulo/": true,
     "https://www.dicio.com.br/estratagema/": true,
     "https://www.dicio.com.br/exilio/": true,
-    "https://www.dicio.com.br/extravagante/": true
+    "https://www.dicio.com.br/extravagante/": true,
+    "https://www.dicio.com.br/falaz/": true
 }
