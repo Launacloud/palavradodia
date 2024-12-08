@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"2942d14db3e3c202d14a2b303dd5aeebe06a2905bb17ce27c36352277d5f0282\"",
+    "etag": "W/\"ebd0749630c2c0f3015b82898eacf82cbc5dde09712ffedf96ee032720f18be0\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/falaz/",
+    "last_entry_id": "https://www.dicio.com.br/fenix/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -185,5 +185,6 @@
     "https://www.dicio.com.br/estratagema/": true,
     "https://www.dicio.com.br/exilio/": true,
     "https://www.dicio.com.br/extravagante/": true,
-    "https://www.dicio.com.br/falaz/": true
+    "https://www.dicio.com.br/falaz/": true,
+    "https://www.dicio.com.br/fenix/": true
 }
