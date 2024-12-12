@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"d61bbeaca33c8d7586fc583f4b2e75d4b637f56bd3003437ee1dd303a8771a16\"",
+    "etag": "W/\"62361161dcdd511698520302bd9c810eda5352fc538d9b035e9ced5f74d941f4\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/galanteio/",
+    "last_entry_id": "https://www.dicio.com.br/genuflexao/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -188,5 +188,6 @@
     "https://www.dicio.com.br/falaz/": true,
     "https://www.dicio.com.br/fenix/": true,
     "https://www.dicio.com.br/fulminante/": true,
-    "https://www.dicio.com.br/galanteio/": true
+    "https://www.dicio.com.br/galanteio/": true,
+    "https://www.dicio.com.br/genuflexao/": true
 }
