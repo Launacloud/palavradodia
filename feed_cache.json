@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"dbbaf4ff02aa465efc08fe640574c0ed525d69cf8e91439764f07b8d1d169e5b\"",
+    "etag": "W/\"d645e849a4aa69ceb980dc17734e88839fc50cd4df0cf1fc7833586c623094bc\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/incolume/",
+    "last_entry_id": "https://www.dicio.com.br/inebriante/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -193,5 +193,6 @@
     "https://www.dicio.com.br/hibridismo/": true,
     "https://www.dicio.com.br/hieroglifo/": true,
     "https://www.dicio.com.br/hipnotico/": true,
-    "https://www.dicio.com.br/incolume/": true
+    "https://www.dicio.com.br/incolume/": true,
+    "https://www.dicio.com.br/inebriante/": true
 }
