@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"d645e849a4aa69ceb980dc17734e88839fc50cd4df0cf1fc7833586c623094bc\"",
+    "etag": "W/\"964a64ea2617a4e6f21c0d156b5e28ea76e03fd82b975e94e5efb3b2c45a8eda\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/inebriante/",
+    "last_entry_id": "https://www.dicio.com.br/infinito/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -194,5 +194,6 @@
     "https://www.dicio.com.br/hieroglifo/": true,
     "https://www.dicio.com.br/hipnotico/": true,
     "https://www.dicio.com.br/incolume/": true,
-    "https://www.dicio.com.br/inebriante/": true
+    "https://www.dicio.com.br/inebriante/": true,
+    "https://www.dicio.com.br/infinito/": true
 }
