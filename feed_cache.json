@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"ab91cf968913101e87e85bf36eb85e5a86cb1e91a6173d25c4ef936706626dad\"",
+    "etag": "W/\"78063abee47a55af169fc230fe8dc52797f01c9bbae5ad3ea9ff0af7be1badd4\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/ludico/",
+    "last_entry_id": "https://www.dicio.com.br/magnitude/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -199,5 +199,6 @@
     "https://www.dicio.com.br/inospito/": true,
     "https://www.dicio.com.br/invejavel/": true,
     "https://www.dicio.com.br/languido/": true,
-    "https://www.dicio.com.br/ludico/": true
+    "https://www.dicio.com.br/ludico/": true,
+    "https://www.dicio.com.br/magnitude/": true
 }
