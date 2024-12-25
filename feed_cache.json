@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"a53e03f1486477c5340bb63ca38409fbd92b3c95e85e80548c1c6806c66c3f70\"",
+    "etag": "W/\"4816ca72459e9e12cf42a8477103e2bf48d54283db99f653e01baae1b97f6ffd\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/matriosca/",
+    "last_entry_id": "https://www.dicio.com.br/mistico/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -202,5 +202,6 @@
     "https://www.dicio.com.br/ludico/": true,
     "https://www.dicio.com.br/magnitude/": true,
     "https://www.dicio.com.br/malabarista/": true,
-    "https://www.dicio.com.br/matriosca/": true
+    "https://www.dicio.com.br/matriosca/": true,
+    "https://www.dicio.com.br/mistico/": true
 }
