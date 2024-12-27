@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c6d00755f01d1370f60b913baa4f3208b990730d339915c1b44946d46cd2ac91\"",
+    "etag": "W/\"c8d075901f05334781930f4aa6164e4c7289edb9bb8099d08f4b6c652cd155e4\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/onirico/",
+    "last_entry_id": "https://www.dicio.com.br/rutilo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -204,5 +204,6 @@
     "https://www.dicio.com.br/malabarista/": true,
     "https://www.dicio.com.br/matriosca/": true,
     "https://www.dicio.com.br/mistico/": true,
-    "https://www.dicio.com.br/onirico/": true
+    "https://www.dicio.com.br/onirico/": true,
+    "https://www.dicio.com.br/rutilo/": true
 }
