@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c8d075901f05334781930f4aa6164e4c7289edb9bb8099d08f4b6c652cd155e4\"",
+    "etag": "W/\"cd48701234b25936a373c644ab05635684ee3f6b7dbfa27efda2fdb93fe0e531\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/rutilo/",
+    "last_entry_id": "https://www.dicio.com.br/eflorescencia/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -205,5 +205,6 @@
     "https://www.dicio.com.br/matriosca/": true,
     "https://www.dicio.com.br/mistico/": true,
     "https://www.dicio.com.br/onirico/": true,
-    "https://www.dicio.com.br/rutilo/": true
+    "https://www.dicio.com.br/rutilo/": true,
+    "https://www.dicio.com.br/eflorescencia/": true
 }
