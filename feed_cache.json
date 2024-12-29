@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"cd48701234b25936a373c644ab05635684ee3f6b7dbfa27efda2fdb93fe0e531\"",
+    "etag": "W/\"af68bfa59340afef266093881f8f018d29181f6edb16ba5b1221d515c9557c50\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/eflorescencia/",
+    "last_entry_id": "https://www.dicio.com.br/efigie/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -206,5 +206,6 @@
     "https://www.dicio.com.br/mistico/": true,
     "https://www.dicio.com.br/onirico/": true,
     "https://www.dicio.com.br/rutilo/": true,
-    "https://www.dicio.com.br/eflorescencia/": true
+    "https://www.dicio.com.br/eflorescencia/": true,
+    "https://www.dicio.com.br/efigie/": true
 }
