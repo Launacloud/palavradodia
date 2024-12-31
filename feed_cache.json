@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"e3a6053cd8d39f0586dabb3a24f0b1d0a0be8badb8ba00eea9f38c71f88adb5e\"",
+    "etag": "W/\"095966ebf38bf26d76bfe422111f9115382c7e0231fcc364e935498804b2aafa\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/obnubilar/",
+    "last_entry_id": "https://www.dicio.com.br/plebeu/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -208,5 +208,6 @@
     "https://www.dicio.com.br/rutilo/": true,
     "https://www.dicio.com.br/eflorescencia/": true,
     "https://www.dicio.com.br/efigie/": true,
-    "https://www.dicio.com.br/obnubilar/": true
+    "https://www.dicio.com.br/obnubilar/": true,
+    "https://www.dicio.com.br/plebeu/": true
 }
