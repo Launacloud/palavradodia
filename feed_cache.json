@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"095966ebf38bf26d76bfe422111f9115382c7e0231fcc364e935498804b2aafa\"",
+    "etag": "W/\"e64716b8421e359e60087342c144a05b9120bc39ba5efc3535a96acb73757bd1\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/plebeu/",
+    "last_entry_id": "https://www.dicio.com.br/esperanca/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -209,5 +209,6 @@
     "https://www.dicio.com.br/eflorescencia/": true,
     "https://www.dicio.com.br/efigie/": true,
     "https://www.dicio.com.br/obnubilar/": true,
-    "https://www.dicio.com.br/plebeu/": true
+    "https://www.dicio.com.br/plebeu/": true,
+    "https://www.dicio.com.br/esperanca/": true
 }
