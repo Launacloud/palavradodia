@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"5edc874c0ac949ed4f73688b57e1c0308e3fbce8b5fb74533318396d3d59c684\"",
+    "etag": "W/\"662e96e524b17a84b939066101e1315664edc376e498fdb0be4b8dd5ac76f19e\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/exaltado/",
+    "last_entry_id": "https://www.dicio.com.br/confins/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -211,5 +211,6 @@
     "https://www.dicio.com.br/obnubilar/": true,
     "https://www.dicio.com.br/plebeu/": true,
     "https://www.dicio.com.br/esperanca/": true,
-    "https://www.dicio.com.br/exaltado/": true
+    "https://www.dicio.com.br/exaltado/": true,
+    "https://www.dicio.com.br/confins/": true
 }
