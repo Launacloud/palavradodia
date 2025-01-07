@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"dad02c2bfbaf4f8b946c5d25894401454e6572d1a1a7270f260ff3c263cc12e1\"",
+    "etag": "W/\"552d070333cd4c3c6c68d75b3cff19a1cfdbb75f2bbe041bc7b57df2c704823c\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/diabetes/",
+    "last_entry_id": "https://www.dicio.com.br/imprescindivel/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -215,5 +215,6 @@
     "https://www.dicio.com.br/confins/": true,
     "https://www.dicio.com.br/perseveranca/": true,
     "https://www.dicio.com.br/vigorar/": true,
-    "https://www.dicio.com.br/diabetes/": true
+    "https://www.dicio.com.br/diabetes/": true,
+    "https://www.dicio.com.br/imprescindivel/": true
 }
