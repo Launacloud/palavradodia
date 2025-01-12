@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"29905cec24b3020c03fabc5f8b59e858ea94e817df208d6c30a1bb42cbae6354\"",
+    "etag": "W/\"09dcaec17dbc548fde6cb6ef16cbfee52c545b2e1593e14e9b931f52f84514ed\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/receptar/",
+    "last_entry_id": "https://www.dicio.com.br/manjolao/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -220,5 +220,6 @@
     "https://www.dicio.com.br/prenha/": true,
     "https://www.dicio.com.br/desvanecedor/": true,
     "https://www.dicio.com.br/receptar/": true,
-    "https://www.dicio.com.br/adocao/": true
+    "https://www.dicio.com.br/adocao/": true,
+    "https://www.dicio.com.br/manjolao/": true
 }
