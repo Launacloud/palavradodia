@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"147f93eec5f6bdb3739c0c8f7b0bdde29de10e3688136959602e6ba546d8854f\"",
+    "etag": "W/\"bddbb22497e82d0fa21cb4fe6f6a26020135013dfca0534a70a3a91caa6d2642\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/relutante/",
+    "last_entry_id": "https://www.dicio.com.br/adictivo/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -222,5 +222,6 @@
     "https://www.dicio.com.br/receptar/": true,
     "https://www.dicio.com.br/adocao/": true,
     "https://www.dicio.com.br/manjolao/": true,
-    "https://www.dicio.com.br/relutante/": true
+    "https://www.dicio.com.br/relutante/": true,
+    "https://www.dicio.com.br/adictivo/": true
 }
