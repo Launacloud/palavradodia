@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"bd3b51f64bf539325dc9b3c53d7082db7c5d1a6720b6fe6ebfb0a98cd973a7cc\"",
+    "etag": "W/\"ed3d2e52c0fcd47489e8727f07c5bdf63aece7ca5e3ee275349399b980ebbd78\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/ataude/",
+    "last_entry_id": "https://www.dicio.com.br/inerente/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -224,5 +224,6 @@
     "https://www.dicio.com.br/manjolao/": true,
     "https://www.dicio.com.br/relutante/": true,
     "https://www.dicio.com.br/adictivo/": true,
-    "https://www.dicio.com.br/ataude/": true
+    "https://www.dicio.com.br/ataude/": true,
+    "https://www.dicio.com.br/inerente/": true
 }
