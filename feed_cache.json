@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"ed3d2e52c0fcd47489e8727f07c5bdf63aece7ca5e3ee275349399b980ebbd78\"",
+    "etag": "W/\"5dd8fcef496d2b325644773109b785743c5562a14dfba18bc10ac3baf391b39a\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/inerente/",
+    "last_entry_id": "https://www.dicio.com.br/grata/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -225,5 +225,6 @@
     "https://www.dicio.com.br/relutante/": true,
     "https://www.dicio.com.br/adictivo/": true,
     "https://www.dicio.com.br/ataude/": true,
-    "https://www.dicio.com.br/inerente/": true
+    "https://www.dicio.com.br/inerente/": true,
+    "https://www.dicio.com.br/grata/": true
 }
