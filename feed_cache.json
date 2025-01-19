@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"2325e82fc4fd739f14c387db4a65663a29dba0c45c08215eb0cc3674d6d4c695\"",
+    "etag": "W/\"c995d2450bfa14795b966b7d0488f4bd3c44a4be05656ff23c653703bbed5a97\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/expressivo/",
+    "last_entry_id": "https://www.dicio.com.br/dicionario/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -227,5 +227,6 @@
     "https://www.dicio.com.br/ataude/": true,
     "https://www.dicio.com.br/inerente/": true,
     "https://www.dicio.com.br/grata/": true,
-    "https://www.dicio.com.br/expressivo/": true
+    "https://www.dicio.com.br/expressivo/": true,
+    "https://www.dicio.com.br/dicionario/": true
 }
