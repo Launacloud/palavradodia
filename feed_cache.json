@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"bd827330581be019e6fe23ad88070b1e6274319938de98ea75ad9c47f8f31bbc\"",
+    "etag": "W/\"eaad57397f45347e552af7de29014d1179efbcf63d9d394360a9116a3ae1e41b\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/misura/",
+    "last_entry_id": "https://www.dicio.com.br/peculiar/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -230,5 +230,6 @@
     "https://www.dicio.com.br/expressivo/": true,
     "https://www.dicio.com.br/dicionario/": true,
     "https://www.dicio.com.br/respeito/": true,
-    "https://www.dicio.com.br/misura/": true
+    "https://www.dicio.com.br/misura/": true,
+    "https://www.dicio.com.br/peculiar/": true
 }
