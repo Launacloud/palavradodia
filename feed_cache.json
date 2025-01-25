@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"6f756809e45c5e89af2b90aa7874cd8dacbdfc838268a800adfba31ac6ea633f\"",
+    "etag": "W/\"ee7880be6641874a55797b3f7125533c6656c16e6f989a9e29475878509701a9\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/perspectiva/",
+    "last_entry_id": "https://www.dicio.com.br/comunidade/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -232,5 +232,6 @@
     "https://www.dicio.com.br/respeito/": true,
     "https://www.dicio.com.br/misura/": true,
     "https://www.dicio.com.br/peculiar/": true,
-    "https://www.dicio.com.br/perspectiva/": true
+    "https://www.dicio.com.br/perspectiva/": true,
+    "https://www.dicio.com.br/comunidade/": true
 }
