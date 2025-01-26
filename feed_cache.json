@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"ee7880be6641874a55797b3f7125533c6656c16e6f989a9e29475878509701a9\"",
+    "etag": "W/\"5f024a12f55338ab481e7fce2420b83fcae7b254b31a50c6ad88d78ad744db9a\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/comunidade/",
+    "last_entry_id": "https://www.dicio.com.br/rio/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -233,5 +233,6 @@
     "https://www.dicio.com.br/misura/": true,
     "https://www.dicio.com.br/peculiar/": true,
     "https://www.dicio.com.br/perspectiva/": true,
-    "https://www.dicio.com.br/comunidade/": true
+    "https://www.dicio.com.br/comunidade/": true,
+    "https://www.dicio.com.br/rio/": true
 }
