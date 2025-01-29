@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"b4f274331818cd4e036b29ed502b1a6a0ce2a96217b1dd60a8e7963113dba2e5\"",
+    "etag": "W/\"9886d67a0d9b1ba0080155621283e7b3e5d3dd1fd615a184179c352425d12cd6\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/angra/",
+    "last_entry_id": "https://www.dicio.com.br/acato-2/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -236,5 +236,6 @@
     "https://www.dicio.com.br/comunidade/": true,
     "https://www.dicio.com.br/rio/": true,
     "https://www.dicio.com.br/astucia/": true,
-    "https://www.dicio.com.br/angra/": true
+    "https://www.dicio.com.br/angra/": true,
+    "https://www.dicio.com.br/acato-2/": true
 }
