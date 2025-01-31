@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"cfd6f591af4fe26944f7973e2cf0e262fe07cf228b464510770f5263356f90ec\"",
+    "etag": "W/\"8d484b7021cb30941f8b00b5130ea300635b8109fcdd32d9479ed7de80f2de10\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/solicitude/",
+    "last_entry_id": "https://www.dicio.com.br/denegrir/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -238,5 +238,6 @@
     "https://www.dicio.com.br/astucia/": true,
     "https://www.dicio.com.br/angra/": true,
     "https://www.dicio.com.br/acato-2/": true,
-    "https://www.dicio.com.br/solicitude/": true
+    "https://www.dicio.com.br/solicitude/": true,
+    "https://www.dicio.com.br/denegrir/": true
 }
