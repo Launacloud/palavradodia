@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"8d484b7021cb30941f8b00b5130ea300635b8109fcdd32d9479ed7de80f2de10\"",
+    "etag": "W/\"8083c1a5f9a60ce464ff50c0ec138f4346cadd64659fd934dfed489df7743a8e\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/denegrir/",
+    "last_entry_id": "https://www.dicio.com.br/resiliencia/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -239,5 +239,6 @@
     "https://www.dicio.com.br/angra/": true,
     "https://www.dicio.com.br/acato-2/": true,
     "https://www.dicio.com.br/solicitude/": true,
-    "https://www.dicio.com.br/denegrir/": true
+    "https://www.dicio.com.br/denegrir/": true,
+    "https://www.dicio.com.br/resiliencia/": true
 }
