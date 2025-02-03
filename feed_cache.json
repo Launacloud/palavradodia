@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"9b06cfe05cb8d498fe78757a30e197d3d2b17ed09ea58eac0a70692680ad849b\"",
+    "etag": "W/\"cbdba9eeafe3a44acf2f07804248427774572a3a9b2f0ff12bb319dbbe34be5d\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/harmonioso/",
+    "last_entry_id": "https://www.dicio.com.br/singular/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -241,5 +241,6 @@
     "https://www.dicio.com.br/solicitude/": true,
     "https://www.dicio.com.br/denegrir/": true,
     "https://www.dicio.com.br/resiliencia/": true,
-    "https://www.dicio.com.br/harmonioso/": true
+    "https://www.dicio.com.br/harmonioso/": true,
+    "https://www.dicio.com.br/singular/": true
 }
