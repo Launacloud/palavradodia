@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"cbdba9eeafe3a44acf2f07804248427774572a3a9b2f0ff12bb319dbbe34be5d\"",
+    "etag": "W/\"5f0efc52e59a968feea2e3eae17ec56bb8166a2cfccfa67e16a6f79342ef1e2c\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/singular/",
+    "last_entry_id": "https://www.dicio.com.br/repositor/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -242,5 +242,6 @@
     "https://www.dicio.com.br/denegrir/": true,
     "https://www.dicio.com.br/resiliencia/": true,
     "https://www.dicio.com.br/harmonioso/": true,
-    "https://www.dicio.com.br/singular/": true
+    "https://www.dicio.com.br/singular/": true,
+    "https://www.dicio.com.br/repositor/": true
 }
