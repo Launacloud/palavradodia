@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"c45564f76dd85bd76f21446ecf4ffd4dd751544fb23996308c02493be534e184\"",
+    "etag": "W/\"5b9958d8c8966a7a425f8c707078779828beaf9e184df733c42f9c2b1e6f3478\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/reciproco/",
+    "last_entry_id": "https://www.dicio.com.br/asseio/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -247,5 +247,6 @@
     "https://www.dicio.com.br/condescendente/": true,
     "https://www.dicio.com.br/regozijar/": true,
     "https://www.dicio.com.br/conjuge/": true,
-    "https://www.dicio.com.br/reciproco/": true
+    "https://www.dicio.com.br/reciproco/": true,
+    "https://www.dicio.com.br/asseio/": true
 }
