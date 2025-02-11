@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"f5b6e9b1f5bb5001ed0b070b45040a8cb57e750e103297fc2b70de4c85c668a2\"",
+    "etag": "W/\"682b04a2a81e1d4535f26967691f53f17abbd03dc3034857ecde4efea3d448fd\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/excecao/",
+    "last_entry_id": "https://www.dicio.com.br/intrinseco/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -249,5 +249,6 @@
     "https://www.dicio.com.br/conjuge/": true,
     "https://www.dicio.com.br/reciproco/": true,
     "https://www.dicio.com.br/asseio/": true,
-    "https://www.dicio.com.br/excecao/": true
+    "https://www.dicio.com.br/excecao/": true,
+    "https://www.dicio.com.br/intrinseco/": true
 }
