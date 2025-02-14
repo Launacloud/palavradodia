@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"5494d8bb5ef9abb68f1daa5ede7acd3801c99c4267376f17441f78d555c3c0eb\"",
+    "etag": "W/\"adb0c7b9306f306402fda42b7c08f0d37fcd27186b60489b603a7be3d58330c2\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/pretensao/",
+    "last_entry_id": "https://www.dicio.com.br/romance/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -252,5 +252,6 @@
     "https://www.dicio.com.br/excecao/": true,
     "https://www.dicio.com.br/intrinseco/": true,
     "https://www.dicio.com.br/clarao/": true,
-    "https://www.dicio.com.br/pretensao/": true
+    "https://www.dicio.com.br/pretensao/": true,
+    "https://www.dicio.com.br/romance/": true
 }
