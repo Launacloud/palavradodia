@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"adb0c7b9306f306402fda42b7c08f0d37fcd27186b60489b603a7be3d58330c2\"",
+    "etag": "W/\"ce1cfcbdb31a7788e69cbac70f3f1487d23a214b1afbd4392d41e89b245be4f7\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/romance/",
+    "last_entry_id": "https://www.dicio.com.br/vivido-2/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -253,5 +253,6 @@
     "https://www.dicio.com.br/intrinseco/": true,
     "https://www.dicio.com.br/clarao/": true,
     "https://www.dicio.com.br/pretensao/": true,
-    "https://www.dicio.com.br/romance/": true
+    "https://www.dicio.com.br/romance/": true,
+    "https://www.dicio.com.br/vivido-2/": true
 }
