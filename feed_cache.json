@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"ce1cfcbdb31a7788e69cbac70f3f1487d23a214b1afbd4392d41e89b245be4f7\"",
+    "etag": "W/\"9ef3419b5a698669e2efcfa85f1b41e2f1e90c506793fb313928ff9ec10504cf\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/vivido-2/",
+    "last_entry_id": "https://www.dicio.com.br/reciprocidade/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -254,5 +254,6 @@
     "https://www.dicio.com.br/clarao/": true,
     "https://www.dicio.com.br/pretensao/": true,
     "https://www.dicio.com.br/romance/": true,
-    "https://www.dicio.com.br/vivido-2/": true
+    "https://www.dicio.com.br/vivido-2/": true,
+    "https://www.dicio.com.br/reciprocidade/": true
 }
