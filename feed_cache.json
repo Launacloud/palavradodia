@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"6ba26dcb6906649166d7153128daf587319a88994c9dc2e1f24616896b2186eb\"",
+    "etag": "W/\"b86200a1f3e4c3569159e6ba53bff54a7ad11f8d8c85ba4580d2b28615198ee9\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/brigue/",
+    "last_entry_id": "https://www.dicio.com.br/libras/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -256,5 +256,6 @@
     "https://www.dicio.com.br/romance/": true,
     "https://www.dicio.com.br/vivido-2/": true,
     "https://www.dicio.com.br/reciprocidade/": true,
-    "https://www.dicio.com.br/brigue/": true
+    "https://www.dicio.com.br/brigue/": true,
+    "https://www.dicio.com.br/libras/": true
 }
