@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"6c2e25d7427884a45df6e99c5218510744282b356dd8feb21a66c32c7685eff2\"",
+    "etag": "W/\"302e2cd68a6ab7ebe6e6219ea4c10db832e869417c02ad7caa60dcd4580c53b7\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/de-repente/",
+    "last_entry_id": "https://www.dicio.com.br/tripulante/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -258,5 +258,6 @@
     "https://www.dicio.com.br/reciprocidade/": true,
     "https://www.dicio.com.br/brigue/": true,
     "https://www.dicio.com.br/libras/": true,
-    "https://www.dicio.com.br/de-repente/": true
+    "https://www.dicio.com.br/de-repente/": true,
+    "https://www.dicio.com.br/tripulante/": true
 }
