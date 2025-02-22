@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"8616eae19a8855989175d8c789afbfa4feb80f3946e7379a78a5672b21e072be\"",
+    "etag": "W/\"d77aed5345bfa8a1a1d9ca52dcfd71ce9d78fe8d7d29b21878d6889e29e4b793\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/franquiar/",
+    "last_entry_id": "https://www.dicio.com.br/atracao-2/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -260,5 +260,6 @@
     "https://www.dicio.com.br/libras/": true,
     "https://www.dicio.com.br/de-repente/": true,
     "https://www.dicio.com.br/tripulante/": true,
-    "https://www.dicio.com.br/franquiar/": true
+    "https://www.dicio.com.br/franquiar/": true,
+    "https://www.dicio.com.br/atracao-2/": true
 }
