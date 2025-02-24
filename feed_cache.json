@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"2acc91e04796c69338fde2e71057c27e3f8b24d6794520937d445d98f8f3370d\"",
+    "etag": "W/\"2f51f78701c07c6c502d992446c7967b27ecab25e333668e87ac4ae9e95cd558\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/alvissaras/",
+    "last_entry_id": "https://www.dicio.com.br/prescindir/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -262,5 +262,6 @@
     "https://www.dicio.com.br/tripulante/": true,
     "https://www.dicio.com.br/franquiar/": true,
     "https://www.dicio.com.br/atracao-2/": true,
-    "https://www.dicio.com.br/alvissaras/": true
+    "https://www.dicio.com.br/alvissaras/": true,
+    "https://www.dicio.com.br/prescindir/": true
 }
