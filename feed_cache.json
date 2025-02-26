@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"e89caf94a2548ec1767837a591faa54d1fbbb0c322f3c3b6fd5cb9b86f1596ae\"",
+    "etag": "W/\"0620c96b28dd8a0cb300fa2df04970ea087fcdfc582665d0ec98dba7f0a46efa\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/transcricao/",
+    "last_entry_id": "https://www.dicio.com.br/presuncoso/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -264,5 +264,6 @@
     "https://www.dicio.com.br/atracao-2/": true,
     "https://www.dicio.com.br/alvissaras/": true,
     "https://www.dicio.com.br/prescindir/": true,
-    "https://www.dicio.com.br/transcricao/": true
+    "https://www.dicio.com.br/transcricao/": true,
+    "https://www.dicio.com.br/presuncoso/": true
 }
