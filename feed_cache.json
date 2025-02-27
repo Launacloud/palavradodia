@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"0620c96b28dd8a0cb300fa2df04970ea087fcdfc582665d0ec98dba7f0a46efa\"",
+    "etag": "W/\"2f2390d39ed843ef56887ccde494c0b803882f846481474d870fc4d27ed82407\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/presuncoso/",
+    "last_entry_id": "https://www.dicio.com.br/triceps/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -265,5 +265,6 @@
     "https://www.dicio.com.br/alvissaras/": true,
     "https://www.dicio.com.br/prescindir/": true,
     "https://www.dicio.com.br/transcricao/": true,
-    "https://www.dicio.com.br/presuncoso/": true
+    "https://www.dicio.com.br/presuncoso/": true,
+    "https://www.dicio.com.br/triceps/": true
 }
