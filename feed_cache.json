@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"d84598da4546979c341274f6cebf6e9382fa7e35131d2b7ea4683c9e18caa3d2\"",
+    "etag": "W/\"b2088693e18b5b01b1ccd730ab6b1c302f0b9e6bdfe2b9d9ae7ddda61169e2fa\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/barco/",
+    "last_entry_id": "https://www.dicio.com.br/plugar/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -267,5 +267,6 @@
     "https://www.dicio.com.br/transcricao/": true,
     "https://www.dicio.com.br/presuncoso/": true,
     "https://www.dicio.com.br/triceps/": true,
-    "https://www.dicio.com.br/barco/": true
+    "https://www.dicio.com.br/barco/": true,
+    "https://www.dicio.com.br/plugar/": true
 }
