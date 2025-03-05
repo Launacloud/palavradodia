@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"505470c21be3e90c0ed467d50cbecb5567a76167cbd39eb5816777f3e8081634\"",
+    "etag": "W/\"7a54f8e8d6d7c2b72256820800462e72930800fb9d54e1bf542d76acc82b0e77\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/carater/",
+    "last_entry_id": "https://www.dicio.com.br/exceto/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -271,5 +271,6 @@
     "https://www.dicio.com.br/plugar/": true,
     "https://www.dicio.com.br/protecionista/": true,
     "https://www.dicio.com.br/serendipidade/": true,
-    "https://www.dicio.com.br/carater/": true
+    "https://www.dicio.com.br/carater/": true,
+    "https://www.dicio.com.br/exceto/": true
 }
