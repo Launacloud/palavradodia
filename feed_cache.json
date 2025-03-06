@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"7a54f8e8d6d7c2b72256820800462e72930800fb9d54e1bf542d76acc82b0e77\"",
+    "etag": "W/\"543eb963b1f424efa2aabd7f2d202261e8b6cb1321133cbdfee08f6898539205\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/exceto/",
+    "last_entry_id": "https://www.dicio.com.br/bem-aventuranca/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -272,5 +272,6 @@
     "https://www.dicio.com.br/protecionista/": true,
     "https://www.dicio.com.br/serendipidade/": true,
     "https://www.dicio.com.br/carater/": true,
-    "https://www.dicio.com.br/exceto/": true
+    "https://www.dicio.com.br/exceto/": true,
+    "https://www.dicio.com.br/bem-aventuranca/": true
 }
