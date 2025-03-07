@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"543eb963b1f424efa2aabd7f2d202261e8b6cb1321133cbdfee08f6898539205\"",
+    "etag": "W/\"ea7bf52482bed092e7bf37b74606c53cb0c6f0ac7cb8eccef42752d4703c45cc\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/bem-aventuranca/",
+    "last_entry_id": "https://www.dicio.com.br/geolocalizacao/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -273,5 +273,6 @@
     "https://www.dicio.com.br/serendipidade/": true,
     "https://www.dicio.com.br/carater/": true,
     "https://www.dicio.com.br/exceto/": true,
-    "https://www.dicio.com.br/bem-aventuranca/": true
+    "https://www.dicio.com.br/bem-aventuranca/": true,
+    "https://www.dicio.com.br/geolocalizacao/": true
 }
