@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"ea7bf52482bed092e7bf37b74606c53cb0c6f0ac7cb8eccef42752d4703c45cc\"",
+    "etag": "W/\"a201c417005876332278f398828a5efed4e4c04e483d3d58547048d8f01c4e76\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/geolocalizacao/",
+    "last_entry_id": "https://www.dicio.com.br/diligencia/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -274,5 +274,6 @@
     "https://www.dicio.com.br/carater/": true,
     "https://www.dicio.com.br/exceto/": true,
     "https://www.dicio.com.br/bem-aventuranca/": true,
-    "https://www.dicio.com.br/geolocalizacao/": true
+    "https://www.dicio.com.br/geolocalizacao/": true,
+    "https://www.dicio.com.br/diligencia/": true
 }
