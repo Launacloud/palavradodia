@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"a201c417005876332278f398828a5efed4e4c04e483d3d58547048d8f01c4e76\"",
+    "etag": "W/\"b1140366bcbe5fce3d333bb96f3d3305c3608f36809a2b93d82e13a945bd8012\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/diligencia/",
+    "last_entry_id": "https://www.dicio.com.br/enrodilha/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -275,5 +275,6 @@
     "https://www.dicio.com.br/exceto/": true,
     "https://www.dicio.com.br/bem-aventuranca/": true,
     "https://www.dicio.com.br/geolocalizacao/": true,
-    "https://www.dicio.com.br/diligencia/": true
+    "https://www.dicio.com.br/diligencia/": true,
+    "https://www.dicio.com.br/enrodilha/": true
 }
