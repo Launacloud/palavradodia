@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"1f519be2a39a5020bc04bec1efa9877d066e9388943e87c3e75f7e0625138268\"",
+    "etag": "W/\"ce48be82744fb05603606da904aa017e75d72d6fb5030dc7214cb99a3c1691bc\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/dublar/",
+    "last_entry_id": "https://www.dicio.com.br/infungivel/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -277,5 +277,6 @@
     "https://www.dicio.com.br/geolocalizacao/": true,
     "https://www.dicio.com.br/diligencia/": true,
     "https://www.dicio.com.br/enrodilha/": true,
-    "https://www.dicio.com.br/dublar/": true
+    "https://www.dicio.com.br/dublar/": true,
+    "https://www.dicio.com.br/infungivel/": true
 }
