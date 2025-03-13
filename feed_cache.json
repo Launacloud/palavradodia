@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"99084747de41946c20240b7d00203da5421483883a7b02937402e868d84ef5a3\"",
+    "etag": "W/\"d6f8b7aa83830196f906aa8a0b342cf7f39a2b82e7e576c2bada40a08d4f4b82\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/foge/",
+    "last_entry_id": "https://www.dicio.com.br/gladiar/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -279,5 +279,6 @@
     "https://www.dicio.com.br/enrodilha/": true,
     "https://www.dicio.com.br/dublar/": true,
     "https://www.dicio.com.br/infungivel/": true,
-    "https://www.dicio.com.br/foge/": true
+    "https://www.dicio.com.br/foge/": true,
+    "https://www.dicio.com.br/gladiar/": true
 }
