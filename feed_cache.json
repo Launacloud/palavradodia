@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"8c6ad8c37efde92c1a3b9fba1d4f5bdb429dbc57a73bf06b40a81c43bd752c63\"",
+    "etag": "W/\"b9a5d02501848205dee0905584eb8a8c839aa48696eb8294ba4110c39cd80dca\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/intra-arterial/",
+    "last_entry_id": "https://www.dicio.com.br/concessao/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -285,5 +285,6 @@
     "https://www.dicio.com.br/surpreender/": true,
     "https://www.dicio.com.br/cinico/": true,
     "https://www.dicio.com.br/arregimentado/": true,
-    "https://www.dicio.com.br/intra-arterial/": true
+    "https://www.dicio.com.br/intra-arterial/": true,
+    "https://www.dicio.com.br/concessao/": true
 }
