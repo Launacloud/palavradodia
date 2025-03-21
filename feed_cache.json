@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"85d0d1dab1e27974cb8e7c4f396fca7bbe24d09695b0af583d6e1230e24053b5\"",
+    "etag": "W/\"85a25868c6c77bc77771d5dec6a97586b2c623b6913b6f751034a93b412a6091\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/perturbacao/",
+    "last_entry_id": "https://www.dicio.com.br/anuencia/",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -287,5 +287,6 @@
     "https://www.dicio.com.br/arregimentado/": true,
     "https://www.dicio.com.br/intra-arterial/": true,
     "https://www.dicio.com.br/concessao/": true,
-    "https://www.dicio.com.br/perturbacao/": true
+    "https://www.dicio.com.br/perturbacao/": true,
+    "https://www.dicio.com.br/anuencia/": true
 }
