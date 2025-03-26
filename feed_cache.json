@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"77653568ad7788638155067d97b033f2371e7e3b0258a4ed3c8c59eed66f7d4e\"",
+    "etag": "W/\"a834203c9e961fcf8c8e86d4b772c103ef6c42de22941301b510332feffeb61c\"",
     "modified": "",
-    "last_entry_id": "https://www.dicio.com.br/aviar/",
+    "last_entry_id": "53b757d3fc5b10befd5eca895d62cdde",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -292,5 +292,8 @@
     "https://www.dicio.com.br/reviravolta/": true,
     "https://www.dicio.com.br/art-deco/": true,
     "https://www.dicio.com.br/empestar/": true,
-    "https://www.dicio.com.br/aviar/": true
+    "https://www.dicio.com.br/aviar/": true,
+    "53b757d3fc5b10befd5eca895d62cdde": true,
+    "b53b5e5fd1e2e227e871c7d5dc9fddf3": true,
+    "163c4df1435748377b099d562173faaa": true
 }
