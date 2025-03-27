@@ -1,7 +1,7 @@
 {
-    "etag": "W/\"0d8a5aa7f1466b265101769d85b63aba437320fa572cbb0a47e75c411e488a07\"",
+    "etag": "W/\"91d2c0d34ddbacaa1668bc005d5981cf8f3ac66b94869ff13af9f1bb1f061d4e\"",
     "modified": "",
-    "last_entry_id": "e354f1fe5907c98e0ece35b03d2c6912",
+    "last_entry_id": "61da35e71a8512d954069110eac256c6",
     "https://www.dicio.com.br/apaziguar/": true,
     "https://www.dicio.com.br/estrambotico/": true,
     "https://www.dicio.com.br/esnobe/": true,
@@ -298,5 +298,8 @@
     "163c4df1435748377b099d562173faaa": true,
     "e354f1fe5907c98e0ece35b03d2c6912": true,
     "9398b5530a54247a187b1312f141b216": true,
-    "382fba89b777981510c2d1ef977a84b5": true
+    "382fba89b777981510c2d1ef977a84b5": true,
+    "61da35e71a8512d954069110eac256c6": true,
+    "fe6f45fc86270f2c0220dd5277792d68": true,
+    "e56488cc466190ff59e58297e469394d": true
 }
