@@ -3,7 +3,6 @@ import json
 import requests
 import feedparser
 from bs4 import BeautifulSoup
-from time import sleep
 
 # Load environment variables
 TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
@@ -27,10 +26,10 @@ def load_cache():
                 return cache
         except json.JSONDecodeError:
             print("Invalid JSON in cache file. Starting with an empty cache.")
-            return {"etag": "", "modified": "", "last_entry_id": ""}
+            return {"etag": "", "modified": "", "processed_entries": []}
     else:
         print("No cache file found. Starting with an empty cache.")
-        return {"etag": "", "modified": "", "last_entry_id": ""}
+        return {"etag": "", "modified": "", "processed_entries": []}
 
 # Function to save cache to the file
 def save_cache(cache):
@@ -57,6 +56,7 @@ def send_telegram_message(message):
 def create_feed_checker(feed_url):
     def check_feed():
         cache = load_cache()
+        processed_entries = cache.get("processed_entries", [])  # List of processed entry IDs
         
         headers = {}
         if cache["etag"]:
@@ -79,21 +79,19 @@ def create_feed_checker(feed_url):
         new_entries = []
         for entry in feed.entries:
             entry_id = entry.get('id', entry.get('link')).strip()
-            
-            # Check if entry_id already exists in the cache
-            if entry_id not in cache:
+            if entry_id not in processed_entries:  # Only process unprocessed entries
                 new_entries.append(entry)
 
         if not new_entries:
             print("No new entries to process.")
             return
 
-        for entry in reversed(new_entries):  # Process new entries in reverse order
+        for entry in reversed(new_entries):  # Process in reverse order (oldest to newest)
             entry_id = entry.get('id', entry.get('link')).strip()
 
             title = entry.title
             link = entry.get('link', entry.get('url'))
-            description = entry.get('content_html', entry.get('description'))
+            description = entry.get('content_html', entry.get('description', ''))
 
             if description:
                 soup = BeautifulSoup(description, 'html.parser')
@@ -109,15 +107,11 @@ def create_feed_checker(feed_url):
             
             try:
                 send_telegram_message(message)
-                cache[entry_id] = True
+                processed_entries.append(entry_id)  # Mark as processed
+                cache["processed_entries"] = processed_entries
                 save_cache(cache)
             except Exception as e:
-                print(f"Error: {e}")
-
-        if new_entries:
-            last_entry = new_entries[-1]
-            cache["last_entry_id"] = last_entry.get('id', last_entry.get('link')).strip()
-            save_cache(cache)
+                print(f"Error sending message: {e}")
 
     return check_feed
 
