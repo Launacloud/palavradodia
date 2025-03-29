@@ -1,5 +1,5 @@
 {
-    "etag": "W/\"1c2accbf808609087c93ca35ce8ab20af0402142cfbe5fb3f720fc12a217aa1b\"",
+    "etag": "W/\"30fb13f6dcfbdbe75040631f1ee339daf7d8b594db5f47da0f15b87bc9d744ea\"",
     "modified": "",
     "last_entry_id": "",
     "https://www.dicio.com.br/apaziguar/": true,
@@ -308,6 +308,7 @@
     "processed_entries": [
         "4ec18f2d1fcab0ac7ad6bc04bb19a7cb",
         "84e2c55c9818f95daaf3fb5fde202085",
-        "dfc0b56f5de4e76d2f51184b0292291f"
+        "dfc0b56f5de4e76d2f51184b0292291f",
+        "6583b5ef78bb8a045fde16b943ec54ad"
     ]
 }
